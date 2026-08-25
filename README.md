@@ -1,6 +1,6 @@
 # Smart-Zero-To-Grid-Controller
 
-![Smart Zero To Grid Controller in action.](	/images/0.gif)
+![Smart Zero To Grid Controller in action.](/images/0.gif)
 
 test
 test2
@@ -26,3 +26,5 @@ Het grote voordeel hiervan is dat u overtollige elektriciteit omzet in thermisch
 ## P1 transmitter
 
 ## Controller
+
+![Smart Zero To Grid Controller no load/ load.](/images/5.gif)
