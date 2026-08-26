@@ -25,7 +25,6 @@ Het grote voordeel hiervan is dat u overtollige elektriciteit omzet in thermisch
 
 ## P1 transmitter
 
-![P1-transmitter.](/images/IMG_20260826_135013_500.jpg)
 <img src="/images/IMG_20260826_135013_500.jpg" width="200">
 
 ## Controller
