@@ -25,10 +25,10 @@ Het grote voordeel hiervan is dat u overtollige elektriciteit omzet in thermisch
 
 ## P1 transmitter
 
-![P1-transmitter.](/IMG_20260826_135013_500.jpg)
+![P1-transmitter.](/images/IMG_20260826_135013_500.jpg)
 
 ## Controller
 
-![Dimmer.](/IMG_20260826_135603_042.jpg)
+![Dimmer.](/images/IMG_20260826_135603_042.jpg)
 
 ![Smart Zero To Grid Controller no load/ load.](/images/5.gif)
