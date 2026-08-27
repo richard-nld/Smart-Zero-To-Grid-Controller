@@ -4,7 +4,7 @@
 
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-orange.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0)
 [![C Standard](https://img.shields.io/badge/C-99-blue.svg)](https://en.cppreference.com/w/c/language/history)
-[!Version](https://img.shields.io/badge/Version-demo_1.0-green.svg)
+![Version](https://img.shields.io/badge/Version-demo_1.0-green.svg)
 
 
 test
